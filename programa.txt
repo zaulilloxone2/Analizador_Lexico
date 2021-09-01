@@ -1,0 +1,6 @@
+variable1
+5.55555
+variablex
+_unerror
+.001
+20.20
