@@ -1,5 +1,5 @@
 # Analizador_Lexico
-
+![image](https://github.com/zaulilloxone2/Analizador_Lexico/blob/280971c8b4e514785cf26e6cecf40f1f4175a0ed/udg%20logo.jpg) 
 #### Alumno: Saul Ezequiel García Ramos
 #### Codigo: 215465492
 #### Fecha: 24/08/2021
@@ -18,7 +18,7 @@ Real = entero.entero+
 
 Utilicé el editor de Pycharm y el lenguaje de programación de python debido a que es el nuevo lenguaje que quiero aprender, y además me sirve manejarlo por que en seminario de algoritmia igual lo tengo que aprender, así que le dejo una captura del codigo corriendo
 
-
+![image](https://github.com/zaulilloxone2/Analizador_Lexico/blob/280971c8b4e514785cf26e6cecf40f1f4175a0ed/Captura%20de%20Mini.png)
 
 
 
